@@ -24,7 +24,7 @@ Camera  | 5MPx, LED Flash
 
         # source build/envsetup.sh
         
-        # brunch cm_A5336-userdebug
+        # brunch cm_A536-userdebug
 
 * Credits
 
